@@ -19,9 +19,10 @@
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
+		Bangalore,560036
 		+91-9980923226,
 		devopstrainingblr@gmail.com
+		
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
